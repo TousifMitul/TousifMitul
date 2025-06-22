@@ -2,7 +2,7 @@
 - 👀 I’m interested in Hacking, web development, gaming, streaming and the list goes on and on
 - 🌱 I’m currently learning Capture the flag
 - 📫 How to reach me tousif5robbani@gmail.com
-- 😄 Pronouns: he, him, his
+- 😄 Pronouns: he, him
 - 
 
 <!---
