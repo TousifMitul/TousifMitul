@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TousifMitul
-- 👀 I’m interested in Hacking, web development, gaming, streaming and the list goes on and on
-- 🌱 I’m currently learning Capture the flag
+- 👀 I’m interested in Hacking, web development, app development, gaming, streaming and the list goes on and on
+- 🌱 I’m currently learning App development with Flutter
 - 📫 How to reach me tousif5robbani@gmail.com
 - 😄 Pronouns: he, him
 - 
